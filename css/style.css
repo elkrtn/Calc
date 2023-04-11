@@ -1,0 +1,41 @@
+body {
+    background-color: #c8d8e9;
+}
+
+#container {
+    height: 350px;
+
+    width: 350px;
+
+    margin: 100px auto;
+
+    background-color: #95bed5;
+
+    border-radius: 20px;
+}
+
+button {
+
+    font-weight: bold;
+
+    display: block;
+
+    color: #2a6a64;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+h3 {
+    margin: 0;
+}
+
+#form {
+    padding: 10px 10px;
+}
+
+#totaltip {
+    padding: 10px 10px;
+}
